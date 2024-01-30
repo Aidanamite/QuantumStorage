@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumStorage", "QuantumStorage\QuantumStorage.csproj", "{4BC5EF32-EF7C-48C1-A0E6-CD09C36BB641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BC5EF32-EF7C-48C1-A0E6-CD09C36BB641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC5EF32-EF7C-48C1-A0E6-CD09C36BB641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC5EF32-EF7C-48C1-A0E6-CD09C36BB641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC5EF32-EF7C-48C1-A0E6-CD09C36BB641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBA6CDB6-ABBB-4DB5-B095-74D60B2E784D}
+	EndGlobalSection
+EndGlobal
